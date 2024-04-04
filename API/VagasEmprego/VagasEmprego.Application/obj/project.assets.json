@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VagasEmprego.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/VagasEmprego.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VagasEmprego.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VagasEmprego.Domain/1.0.0": {
+      "type": "project",
+      "path": "../VagasEmprego.Domain/VagasEmprego.Domain.csproj",
+      "msbuildProject": "../VagasEmprego.Domain/VagasEmprego.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "VagasEmprego.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Guilherme\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projetos\\Entrevistas\\Going2\\API\\VagasEmprego\\VagasEmprego.Application\\VagasEmprego.Application.csproj",
+      "projectName": "VagasEmprego.Application",
+      "projectPath": "D:\\Projetos\\Entrevistas\\Going2\\API\\VagasEmprego\\VagasEmprego.Application\\VagasEmprego.Application.csproj",
+      "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
+      "outputPath": "D:\\Projetos\\Entrevistas\\Going2\\API\\VagasEmprego\\VagasEmprego.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\Projetos\\Entrevistas\\Going2\\API\\VagasEmprego\\VagasEmprego.Domain\\VagasEmprego.Domain.csproj": {
+              "projectPath": "D:\\Projetos\\Entrevistas\\Going2\\API\\VagasEmprego\\VagasEmprego.Domain\\VagasEmprego.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

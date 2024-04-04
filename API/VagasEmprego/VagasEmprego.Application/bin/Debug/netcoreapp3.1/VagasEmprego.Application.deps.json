@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VagasEmprego.Application/1.0.0": {
+        "dependencies": {
+          "VagasEmprego.Domain": "1.0.0"
+        },
+        "runtime": {
+          "VagasEmprego.Application.dll": {}
+        }
+      },
+      "VagasEmprego.Domain/1.0.0": {
+        "runtime": {
+          "VagasEmprego.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VagasEmprego.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VagasEmprego.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

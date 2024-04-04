@@ -1,0 +1,10 @@
+D:\Projetos\Entrevistas\Going2\API\VagasEmprego\VagasEmprego.Domain\bin\Debug\netcoreapp3.1\VagasEmprego.Domain.deps.json
+D:\Projetos\Entrevistas\Going2\API\VagasEmprego\VagasEmprego.Domain\bin\Debug\netcoreapp3.1\VagasEmprego.Domain.dll
+D:\Projetos\Entrevistas\Going2\API\VagasEmprego\VagasEmprego.Domain\bin\Debug\netcoreapp3.1\VagasEmprego.Domain.pdb
+D:\Projetos\Entrevistas\Going2\API\VagasEmprego\VagasEmprego.Domain\obj\Debug\netcoreapp3.1\VagasEmprego.Domain.csproj.AssemblyReference.cache
+D:\Projetos\Entrevistas\Going2\API\VagasEmprego\VagasEmprego.Domain\obj\Debug\netcoreapp3.1\VagasEmprego.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Entrevistas\Going2\API\VagasEmprego\VagasEmprego.Domain\obj\Debug\netcoreapp3.1\VagasEmprego.Domain.AssemblyInfoInputs.cache
+D:\Projetos\Entrevistas\Going2\API\VagasEmprego\VagasEmprego.Domain\obj\Debug\netcoreapp3.1\VagasEmprego.Domain.AssemblyInfo.cs
+D:\Projetos\Entrevistas\Going2\API\VagasEmprego\VagasEmprego.Domain\obj\Debug\netcoreapp3.1\VagasEmprego.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\Entrevistas\Going2\API\VagasEmprego\VagasEmprego.Domain\obj\Debug\netcoreapp3.1\VagasEmprego.Domain.dll
+D:\Projetos\Entrevistas\Going2\API\VagasEmprego\VagasEmprego.Domain\obj\Debug\netcoreapp3.1\VagasEmprego.Domain.pdb
